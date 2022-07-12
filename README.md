@@ -1,4 +1,4 @@
-## Pedro Henrique
+## Pedro Henrique D'Oliveira
 
 Hello everyone, I'am Pedro Henrique, FullStack Software Developer. Excited about learnning new things, this is my Github, feel free to share, exchange ideas, and checkout some of my projects and repositories. Currently working with Web Applications and using Python and Javascript as main programming languages.
 <div style="display:flex;flex-direction=row;justify-content=space-between;">
@@ -19,7 +19,7 @@ Here is my contact and social media links :
 
 <div>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<a href="https://wa.me/5571999446319><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/pedro-henrique-fonseca-d-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/phedro_henriique/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
