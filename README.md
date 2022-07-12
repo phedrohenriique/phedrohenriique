@@ -8,8 +8,8 @@ Hello everyone, I'am Pedro Henrique, FullStack Software Developer. Excited about
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-3776AB?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
