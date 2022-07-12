@@ -1,6 +1,9 @@
 ## Pedro Henrique D'Oliveira
 
 Hello everyone, I'am Pedro Henrique, FullStack Software Developer. Excited about learnning new things, this is my Github, feel free to share, exchange ideas, and checkout some of my projects and repositories. Currently working with Web Applications and using Python and Javascript as main programming languages.
+
+## Tecnologies :
+
 <div style="display:flex;flex-direction=row;justify-content=space-between;">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=phedrohenriique&show_icons=true&theme=dracula&count_private=true" />   
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phedrohenriique&show_icons=true&theme=dracula&count_private=true" />
@@ -15,7 +18,7 @@ Hello everyone, I'am Pedro Henrique, FullStack Software Developer. Excited about
 </div>
 
 
-Here is my contact and social media links :
+## Contact Links :
 
 <div>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
