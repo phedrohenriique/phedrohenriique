@@ -2,7 +2,7 @@
 
 Hello everyone, I'am Pedro Henrique, FullStack Software Developer. Excited about learnning new things, this is my Github, feel free to share, exchange ideas, and checkout some of my projects and repositories. Currently working with Web Applications and using Python and Javascript as main programming languages.
 
-## Tecnologies :
+## Technologies :
 
 <div style="display:flex;flex-direction=row;justify-content=space-between;">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=phedrohenriique&show_icons=true&theme=dracula&count_private=true" />   
@@ -16,7 +16,13 @@ Hello everyone, I'am Pedro Henrique, FullStack Software Developer. Excited about
   <img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-3776AB?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
-
+<div>
+  <img src="https://img.shields.io/badge/Node.js-3776AB?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-3776AB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-3776AB?style=for-the-badge&logo=heroku&logoColor=white">
+</div>
 
 ## Contact Links :
 
