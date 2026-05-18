@@ -23,6 +23,12 @@ Hello everyone, I'am Pedro Henrique, Software Engineer. Excited about learnning 
   <img src="https://img.shields.io/badge/Microsoft-Azure-3776AB?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
 </div>
+<div>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/-cypress-DD0031?style=for-the-badge&logo=cypress&logoColor=white">
+</div>
 
 ## Contact Links :
 
