@@ -9,7 +9,7 @@ Hello everyone, I'am Pedro Henrique, Software Engineer. Excited about learnning 
   <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-3776AB?style=for-the-badge&logo=dart&logoColor=white">
 </div>
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white">
