@@ -32,7 +32,7 @@ Hello everyone, I'am Pedro Henrique, Software Engineer. Excited about learnning 
 <div>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-3776AB?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-C--Sharp-brightgreen3776AB?style=for-the-badge&logo=csharp&logoColor=white">
 </div>
 
