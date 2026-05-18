@@ -16,6 +16,7 @@ Hello everyone, I'am Pedro Henrique, Software Engineer. Excited about learnning 
   <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 <div>
   <img src="https://img.shields.io/badge/Terraform-3776AB?style=for-the-badge&logo=terraform&logoColor=white">
@@ -28,12 +29,14 @@ Hello everyone, I'am Pedro Henrique, Software Engineer. Excited about learnning 
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/-cypress-DD0031?style=for-the-badge&logo=cypress&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 </div>
 <div>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-3776AB?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-C--Sharp-brightgreen3776AB?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
 ## Contact Links :
