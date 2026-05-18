@@ -5,7 +5,7 @@ Hello everyone, I'am Pedro Henrique, Software Engineer. Excited about learnning 
 ## Technologies :
 
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -19,7 +19,7 @@ Hello everyone, I'am Pedro Henrique, Software Engineer. Excited about learnning 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Terraform-3776AB?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-821ee6?style=for-the-badge&logo=terraform&logoColor=white">
   <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-3776AB?style=for-the-badge&logo=google%20cloud&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft-Azure-3776AB?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
